@@ -1,7 +1,7 @@
 # Note App
 
 ```
-JQuery, Ajax, PHP, MySQL
+PHP, MySQL, JQuery, Ajax, Bootstrap
 ```
 
 ### <a href="https://devaloper.com/not-uygulamasi">Live Demo</a>
